@@ -121,7 +121,7 @@
 
     <!-- JSON/Dataformats -->
     <jackson.version>2.11.3</jackson.version>
-    <jackson-datatype-jts.version>0.12-2.5-1</jackson-datatype-jts.version>
+    <jackson-datatype-jts.version>1.0-2.7</jackson-datatype-jts.version>
 
     <!-- Logging -->
     <log4j.version>2.13.3</log4j.version>
